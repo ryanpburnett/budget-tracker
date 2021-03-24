@@ -27,10 +27,6 @@ N/A
 ### Usage
 Type in any income or expenses, and add with the UI buttons
 
-```
-
-```
-
 ![Title](demo.png)
 
 ### Dependencies
